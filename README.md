@@ -78,7 +78,7 @@ I'm a motivated **Computer Science undergraduate** with expertise in full-stack 
   - Personalized AI insights using Google Gemini
   - Scalable backend with Supabase
   - Real-time performance tracking
-- **Live:** [Lakshya](https://lakshyaa.vercel.app)
+- **Live:** [Lakshya](https://lakshyassb.in)
 
 ### 👤 Face Recognition Attendance System
 - **Description:** Automated attendance system using computer vision to mark student attendance in real-time.

@@ -1,0 +1,10 @@
+# local-only scratch — not needed in the repo
+*.preview.png
+_photos/
+photo-src.jpg
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/

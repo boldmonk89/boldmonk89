@@ -1,0 +1,9 @@
+# one-time local image prep (portrait). run once:
+#   pip install -r requirements-local.txt
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime
+requests
+beautifulsoup4

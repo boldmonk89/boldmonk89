@@ -1,45 +1,10 @@
 {
  "user": "boldmonk89",
- "generated": "2026-09-05T08:20:40.091123Z",
- "total": 3771,
+ "generated": "2026-09-06T08:39:19.004622Z",
+ "total": 3766,
  "current_streak": 0,
  "longest_streak": 16,
  "days": [
-  {
-   "date": "2025-08-31",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-09-01",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-09-02",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-09-03",
-   "count": 2,
-   "level": 1
-  },
-  {
-   "date": "2025-09-04",
-   "count": 2,
-   "level": 1
-  },
-  {
-   "date": "2025-09-05",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-09-06",
-   "count": 1,
-   "level": 1
-  },
   {
    "date": "2025-09-07",
    "count": 3,
@@ -1857,6 +1822,11 @@
   },
   {
    "date": "2026-09-05",
+   "count": 0,
+   "level": 0
+  },
+  {
+   "date": "2026-09-06",
    "count": 0,
    "level": 0
   }
